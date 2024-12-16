@@ -2,7 +2,7 @@
 
 > 一个基于 Django 的开源项目，轻松管理和分享您的代码片段。
 
-![GitHub Repo](https://img.shields.io/badge/Django-5.x-green) ![License](https://img.shields.io/badge/License-MIT-blue) ![Python](https://img.shields.io/badge/Python-3.9+-yellow)
+![GitHub Repo](https://img.shields.io/badge/Django-5.x-green) ![License](https://img.shields.io/badge/License-MIT-blue) ![Python](https://img.shields.io/badge/Python-3.9+-yellow) ![Bootstrap](https://img.shields.io/badge/bootstrap-5.3.x-purple)
 
 ---
 
